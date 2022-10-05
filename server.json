@@ -17,12 +17,20 @@
       "createdAt": "2022-07-29T19:30:44.505Z"
     },
     {
-      "id": 2,
+      "id": 3,
       "description": "Ração",
       "type": "outcome",
       "category": "Alimentação dos dogs",
       "price": 380,
       "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "description": "Restituição IRF",
+      "price": 400,
+      "category": "IRF",
+      "type": "income",
+      "createdAt": "2022-10-05T20:30:34.432Z",
+      "id": 4
     }
   ]
 }
